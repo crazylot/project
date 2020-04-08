@@ -1,0 +1,2 @@
+alert('The following page gives you necessary information about covid19');
+alert('It contains some myths buster, food to eat during quarantine, some news article,blog to tell you to how to keep you engage yourself during qurantine');
